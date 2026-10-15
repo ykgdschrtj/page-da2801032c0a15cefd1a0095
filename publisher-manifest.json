@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3b27b052fcf87b7c946dda93",
+  "owner": "ykgdschrtj",
+  "repo": "page-da2801032c0a15cefd1a0095",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "da2801032c0a15cefd1a0095",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "202e88b2aa80347b04aa6f9849ff883a78d07e3542de35e15eae65bb3729acc1",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载提供专业的VPN网络加速服务，包括基础版、旗舰版和团队版多种方案。支持多设备在线，解锁流媒体，快速连接节点。立即下载客户端开始加速上网！",
+          "AI_DESCRIPTION": "小火箭下载提供专业的VPN网络加速服务，包括基础版、旗舰版和团队版多种方案。支持多设备在线，解锁流媒体，快速连接节点。立即下载客户端开始加速上网！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--coral:#ff6b6b;--warmwhite:#f8f4f0;--text:#2c2c2c;--lightgray:#f0ede7}body{background:var(--warmwhite);color:var(--text);font-family:PingFang SC,Microsoft YaHei,sans-serif;font-size:16px;line-height:1.7;margin:0;padding:0}.container{max-width:1200px;margin:0 auto;padding:20px}.header{text-align:center;padding:40px 20px;background:var(--warmwhite);border-radius:12px;margin-bottom:40px}.h1{color:var(--coral);font-size:3rem;margin:0 0 12px}.tagline{font-size:1.25rem;color:#666;margin:0}.plans-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:40px 0}.plan-card{background:#fff;border:2px solid #eee;border-radius:12px;padding:28px;box-shadow:0 4px 12px rgba(0,0,0,.05)}.plan-card.featured{border-color:var(--coral)}.plan-name{font-size:1.35rem;font-weight:600;margin-bottom:8px}.plan-price{color:var(--coral);font-size:1.65rem;font-weight:700}.plan-features{list-style:none;padding:0;margin:20px 0}.plan-features li{position:relative;padding-left:28px;margin-bottom:12px}.plan-features li:before{content:\"✓\";color:var(--coral);position:absolute;left:0}.config-section{background:#fff;border-radius:12px;padding:32px;margin:40px 0;box-shadow:0 4px 12px rgba(0,0,0,.05)}.config-steps{ counter-reset:step; list-style:none;padding:0}.config-steps li{position:relative;padding-left:48px;margin-bottom:18px;counter-increment:step}.config-steps li:before{content:\"第\" counter(step) \"步\";font-weight:700;color:var(--coral);position:absolute;left:0}.faq-grid{display:grid;grid-template-columns:1fr;gap:12px}.faq-item{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.05)}.faq-summary{background:var(--lightgray);padding:18px 24px;font-weight:600;cursor:pointer;border:none}.faq-answer{padding:0 24px 24px;color:#555;display:none}.footer{background:var(--warmwhite);text-align:center;padding:30px 20px;font-size:0.9rem;color:#888;border-top:1px solid #eee;margin-top:60px}.btn{display:inline-block;background:var(--coral);color:#fff;padding:14px 32px;border-radius:8px;text-decoration:none;font-weight:600;transition:all .3s}.btn:hover{transform:scale(1.05);background:#ff4d4d}</style><main class=\"container\"><div class=\"header\"><h1 class=\"h1\">小火箭下载</h1><p class=\"tagline\">VPN梯子网络加速器 · 客户端下载 · 官网</p></div><div class=\"plans-grid\"><div class=\"plan-card\"><div class=\"plan-name\">基础版</div><div class=\"plan-price\">¥15/月</div><div class=\"plan-price annual\">按年付仅需 ¥150/年</div><ul class=\"plan-features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan-card featured\"><div class=\"plan-name\">旗舰版</div><div class=\"plan-price\">¥35/月</div><div class=\"plan-price annual\">按年付仅需 ¥350/年</div><ul class=\"plan-features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan-card\"><div class=\"plan-name\">团队版</div><div class=\"plan-price\">¥85/月</div><div class=\"plan-price annual\">按年付仅需 ¥850/年</div><ul class=\"plan-features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><div class=\"config-section\"><h2>配置流程（3步完成）</h2><ol class=\"config-steps\"><li>访问官网下载小火箭客户端</li><li>注册账号选择套餐完成订阅</li><li>打开客户端连接任意节点开始加速</li></ol></div><div class=\"faq-grid\"><div class=\"faq-item\"><details><summary class=\"faq-summary\">小火箭下载是什么？</summary><div class=\"faq-answer\">小火箭下载是一款高效VPN网络加速客户端，提供多方案订阅，助您畅享稳定高速的网络体验。</div></details></div><div class=\"faq-item\"><details><summary class=\"faq-summary\">如何下载小火箭客户端？</summary><div class=\"faq-answer\">登录官网直接下载官方客户端，支持Windows/Mac/iOS/Android多平台，一键安装即可使用。</div></details></div><div class=\"faq-item\"><details><summary class=\"faq-summary\">支持哪些设备？</summary><div class=\"faq-answer\">基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台，满足家庭办公和多人使用需求。</div></details></div><div class=\"faq-item\"><details><summary class=\"faq-summary\">流量如何计算？</summary><div class=\"faq-answer\">每月提供固定GB极速流量，超出部分可续费或升级更高套餐，加速效果不受影响。</div></details></div><div class=\"faq-item\"><details><summary class=\"faq-summary\">如何解锁流媒体？</summary><div class=\"faq-answer\">旗舰版及以上方案提供全节点原生解锁，Netflix、YouTube、Bilibili等主流平台均可畅享。</div></details></div><div class=\"faq-item\"><details><summary class=\"faq-summary\">客服支持如何？</summary><div class=\"faq-answer\">7x24在线工单响应，专业技术团队提供线路优化和使用指导。</div></details></div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><div class=\"footer\">© 2025 小火箭下载 官网 · 隐私政策 · 免责声明</div>",
+          "hash": "d91468e14441cb97b1dd92f815cb6807f6bc4e4051dcd1de053880b75f1756ac",
+          "seo": {
+            "title": "小火箭下载 - VPN梯子网络加速器 客户端下载 官网",
+            "keywords": "小火箭下载, VPN加速器, 机场订阅, 客户端下载, 官网, VPN梯子, 网络加速, 流量包",
+            "description": "小火箭下载提供专业的VPN网络加速服务，包括基础版、旗舰版和团队版多种方案。支持多设备在线，解锁流媒体，快速连接节点。立即下载客户端开始加速上网！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shangjiaedu.cn",
+    "host": "p-12d9b665af.shangjiaedu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "544e466e25b60595bf02d35f5469dc54a61bc7e65eacf649bcbd963cfcec1264",
+    "sitemap.xml": "c63b1ed4b1198b30e3921746213ee7616bd8ff6d0a173fa658c41561ef8d7fd8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "83f4aca9f62decbf78cac42e674ec2e3c04cd51b86ed49d6ce431a774ce8e313",
+    "robots.txt": "bcca7a6a1d87920eb3b2c6a6c152cfb5de530f5c922394ed123da4bdb1b032b6",
+    "97e68ac6b89a8fe08ebcb9c963ab502a.txt": "29a0d2e850c06dc054a1501140698f8a0bb7ba65e2be15be81a157c49599ef5f"
+  },
+  "revision": "5f7572f2e2bcdc5dd032538df5521e0f54f25189f7fd6ff22581d1e2d5086152"
+}
